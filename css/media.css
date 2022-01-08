@@ -1,0 +1,42 @@
+@media(max-width:1199.98px) {
+    .logokrolik {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 30px;
+    }
+}
+
+@media(max-width:991.98px) {
+    .header__container {
+        padding: 120px 0 62px 0;
+    }
+    .header__title {
+        font-size: 30px;
+    }
+}
+
+@media(max-width:767.98px) {
+    .icons-subtitle {
+        font-size: 16px;
+        line-height: 21px;
+        color: #4f4f4f;
+    }
+    
+}
+
+@media(max-width:565.98px) {
+    
+    .section-subtitle{
+        font-size: 17px;
+        position: relative;
+        width: 231px;
+        margin: auto;
+        color: #36282e;
+    }
+    .icons-subtitle {
+        font-size: 14px;
+        line-height: 21px;
+        color: #4f4f4f;
+    }
+}
